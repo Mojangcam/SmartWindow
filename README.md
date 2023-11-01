@@ -37,5 +37,7 @@
 5. 습도가 높아지면 창문이 닫힙니다.
 6. 창문이 열리고 닫히는 우선순위는 닫힘 -> 반만 닫힘 -> 열림 순 입니다.
 
-[동작 시연 영상 - 앱 업데이트 전] (https://www.youtube.com/watch?v=2f4ua8sfkGE)
-[Operation demonstration video - Before app update] (https://www.youtube.com/watch?v=2f4ua8sfkGE)
+[동작 시연 영상 - 앱 업데이트 전](https://www.youtube.com/watch?v=2f4ua8sfkGE)
+
+
+[Operation demonstration video - Before app update](https://www.youtube.com/watch?v=2f4ua8sfkGE)
